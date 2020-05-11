@@ -52,7 +52,7 @@
 
 :scroll: - [Métodos de Arrays]()
 
-:crossed_swords::question: - [Bikram]()
+:crossed_swords: - [Bikram]()
 
 :shinto_shrine: - []()
 
@@ -68,7 +68,7 @@
 
 :scroll: - [Spread operator]()
 
-:crossed_swords::question: - [Bikram]()
+:crossed_swords: - [Bikram]()
 
 :shinto_shrine: - []()
 
