@@ -50,7 +50,7 @@
 
 :scroll: - [Composición de funciones]()
 
-:scroll: - [Métodos de Arrays]()
+:scroll: - [Métodos de Arrays](https://www.w3schools.com/js/js_array_methods.asp)
 
 :crossed_swords: - [Bikram]()
 
@@ -64,9 +64,9 @@
 
 :scroll: - [Mutabilidad]()
 
-:scroll: - [Destructuring]()
+:scroll: - [Destructuring](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment)
 
-:scroll: - [Spread operator]()
+:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
 
 :crossed_swords: - [Bikram]()
 
@@ -76,9 +76,9 @@
 
 ### Jueves
 
-:scroll: - [Promesas]()
+:scroll: - [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise)
 
-:scroll: - [Async Await]()
+:scroll: - [Async Await](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/funcion_asincrona)
 
 :crossed_swords: - []()
 
@@ -88,9 +88,9 @@
 
 ### Viernes
 
-:scroll: - [LocalStorage]()
+:scroll: - [LocalStorage](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
 
-:scroll: - [Object methods]()
+:scroll: - [Object methods](https://www.w3schools.com/js/js_object_methods.asp)
 
 :crossed_swords: - []()
 
