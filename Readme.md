@@ -14,31 +14,29 @@
 
 :gear: - Instalación
 
-:gear: - Instalación
-
 ## Requisitos
 
-:gear: - []()
+:gear: - [Fundamentos de la programación en JS](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion)
 
 ## Curso - Semana Programación avanzada
 
 ### Lunes
 
-:scroll: - [Clases](https://www.w3schools.com/html/html_classes.asp)
+:scroll: - [Clases](https://www.w3schools.com/Js/js_classes.asp)
 
 :scroll: - [Objetos](https://www.w3schools.com/js/js_objects.asp)
 
-:scroll: - [Propiedades]()
+:scroll: - [Propiedades](https://www.w3schools.com/Js/js_object_properties.asp)
 
-:scroll: - [Métodos]()
+:scroll: - [Métodos](https://www.w3schools.com/Js/js_object_methods.asp)
 
 :scroll: - [Constructor](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes/constructor)
 
 :scroll: - [Herencia, Encapsulamiento, Abstracción, Polimorfismo](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 
-:crossed_swords: - [Transportes]()
+:crossed_swords: - [Transportes](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare)
 
-:shinto_shrine: - [Mayas vs aztecas]()
+:shinto_shrine: - [Mayas vs aztecas](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas)
 
 :european_castle: - [Bikram](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-bikram-objetos-clases)
 
